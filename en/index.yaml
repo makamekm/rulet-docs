@@ -1,0 +1,12 @@
+title: Рулет ТВ
+description: Рулет ТВ - видео сервис для риятного припровождения 
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Правила
+  description: Описание платформы, ее основные возможности, особенности и преимущества.
+  href: rules.md
+- title: Соглашение пользователя
+  description: С чего начать работу
+  href: agreement.md
