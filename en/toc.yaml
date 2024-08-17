@@ -21,6 +21,8 @@ navigation:
       - text: "Back to Rulet!"
         type: "link"
         url: "https://rulet.tv/"
+    rightItems:
+      - type: 'controls'
 
 items:
   - name: Rules
