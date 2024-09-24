@@ -11,16 +11,18 @@ analytics:
 
 navigation:
   logo:
-    url: "../ru"
+    url: "https://rulog.tv/"
     dark:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/logo/ddos-logo-dark.svg"
+      icon: "../_images/logo-text-dark.svg"
     light:
-      icon: "https://storage.yandexcloud.net/diplodoc-www-assets/navigation/diplodoc-logo.svg"
+      icon: "../_images/logo-text-white.svg"
   header:
     leftItems:
-      - text: "Обратно в Рулет!"
+      - text: "Оглавление"
         type: "link"
-        url: "https://rulet.tv/"
+        url: "../ru"
+    rightItems:
+      - type: 'controls'
 
 items:
   - name: Правила системы
