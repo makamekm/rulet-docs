@@ -6,14 +6,17 @@ meta:
 links:
 - title: Помощь
   description: Описание всех возможностей того, как связаться с нами
-  href: ./help.md
+  href: help.md
 - title: Правила
   description: Описание платформы, ее основные возможности, особенности и преимущества.
-  href: ./rules.md
+  href: rules.md
+- title: Политика конфиденциальности
+  description: Политика в отношении обработки персональных данных
+  href: politics.md
 - title: Соглашение пользователя
   description: С чего начать работу
-  href: ./agreement.md
+  href: agreement.md
 - title: Соглашение
   description: Страница с пунктами соглашения пользования сервисом
-  href: ./consent.md
+  href: consent.md
   hidden: true

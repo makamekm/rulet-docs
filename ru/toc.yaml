@@ -25,7 +25,14 @@ navigation:
       - type: 'controls'
 
 items:
+  - name: Помощь
+    href: help.md
   - name: Правила системы
     href: rules.md
   - name: Соглашение пользователя
     href: agreement.md
+  - name: Политика конфиденциальности
+    href: politics.md
+  - name: Соглашение
+    href: consent.md
+    hidden: true
