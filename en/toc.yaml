@@ -21,6 +21,9 @@ navigation:
       - text: "Overview"
         type: "link"
         url: "../en"
+      - text: "Help"
+        type: "link"
+        url: "./help"
     rightItems:
       - type: 'controls'
 

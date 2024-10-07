@@ -21,6 +21,9 @@ navigation:
       - text: "Оглавление"
         type: "link"
         url: "../ru"
+      - text: "Помощь"
+        type: "link"
+        url: "./help"
     rightItems:
       - type: 'controls'
 
