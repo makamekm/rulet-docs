@@ -1,22 +1,22 @@
-title: Рулет ТВ
-description: Рулет ТВ - видео сервис для приятного времяпрепровождения 
+title: Rulet TV
+description: Rulet TV - video service for a pleasant pastime
 meta:
-  title: Метаданные
+  title: Metadata
   noIndex: true
 links:
-- title: Помощь
-  description: Описание всех возможностей того, как связаться с нами
+- title: Help
+  description: Description of all the options for contacting us
   href: help.md
 - title: Правила
-  description: Описание платформы, ее основные возможности, особенности и преимущества.
+  description: Description of the platform, its main capabilities, features and advantages.
   href: rules.md
 - title: Privacy Policy
   description: Policy on the processing of personal data
   href: politics.md
-- title: Соглашение пользователя
-  description: С чего начать работу
+- title: User Agreement
+  description: Where to start
   href: agreement.md
-- title: Соглашение
-  description: Страница с пунктами соглашения пользования сервисом
+- title: Consent
+  description: Page with the terms of the agreement for using the service
   href: consent.md
   hidden: true

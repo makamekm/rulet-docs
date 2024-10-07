@@ -33,6 +33,6 @@ items:
     href: agreement.md
   - name: Privacy Policy
     href: politics.md
-  - name: Соглашение
+  - name: Consent
     href: consent.md
     hidden: true
