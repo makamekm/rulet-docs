@@ -1,5 +1,5 @@
-Продолжая пользоваться сервисом:
+By continuing to use the service:
 
-* Я подтверждаю, что мне исполнилось 18 лет
-* Я принимаю [Пользовательское соглашение](./agreement.md) и [Правила поведения](./rules.md)
-* Я согласен на обработку моих персональных данных в соответствии с условиями [Политики конфиденциальности](./politics.md)
+* I confirm that I am 18 years of age or older
+* I accept the [User Agreement](./agreement.md) and [Rules of Conduct](./rules.md)
+* I agree to the processing of my personal data in accordance with the terms of the [Privacy Policy](./politics.md)
