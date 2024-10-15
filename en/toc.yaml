@@ -11,7 +11,7 @@ analytics:
 
 navigation:
   logo:
-    url: "https://rulog.tv/"
+    url: "https://rulet.tv/"
     dark:
       icon: "../_images/logo-text-dark.svg"
     light:
