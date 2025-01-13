@@ -1,4 +1,5 @@
-### If you have any questions, please contact us.
+# If you have any questions, please contact us.
+
 Please enter your ID at the beginning of your message. You can see your ID in your Profile.
 
 * [contact@rulet.tv](contact@rulet.tv)

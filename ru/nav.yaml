@@ -1,0 +1,22 @@
+title:
+  href: "/"
+  image: "https://rulet.tv/docs/api/assets/ru/images/logo-text-white.svg"
+
+locale:
+  heading: "В этой статье:"
+  prev: "Предыдущая"
+  next: "Следующая"
+  search: "Поиск..."
+
+left:
+  - label: Помощь
+    href: help
+  - label: Правила системы
+    href: rules
+  - label: Соглашение пользователя
+    href: agreement
+  - label: Политика конфиденциальности
+    href: politics
+
+hidden:
+  - consent

@@ -1,3 +1,5 @@
+# Consent
+
 By continuing to use the service:
 
 * I confirm that I am 18 years of age or older
