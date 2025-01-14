@@ -11,5 +11,6 @@ assets: "**/*.svg"
 redirects:
   - from: /
     to: help.ru
-  - from: index
+    normalize: false
+  - from: /
     to: help
