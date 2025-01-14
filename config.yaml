@@ -10,7 +10,7 @@ assets: "**/*.svg"
 
 redirects:
   - from: /
-    to: help.ru
+    to: help.en
     normalize: false
   - from: /
     to: help
