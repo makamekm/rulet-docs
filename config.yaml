@@ -6,4 +6,4 @@ languages:
     flag: en
     code: en
 
-assets: "**/*"
+assets: "**/*.svg"

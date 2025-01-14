@@ -1,6 +1,6 @@
 title:
   href: "/"
-  image: "https://rulet.tv/docs/api/assets/ru/images/logo-text-white.svg"
+  image: "/docs/api/assets/images/logo-text-white.svg"
 
 locale:
   heading: "В этой статье:"

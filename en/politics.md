@@ -136,7 +136,7 @@ In the event that the fact of inaccuracy of personal data is confirmed, the Oper
 
 ## Appendix No. 1 to the Policy of Sovremennye Kommunikatsii LLC regarding the processing of personal data
 
-## LIST of purposes, methods and terms of processing personal data of Sovremennye Kommunikatsii LLC
+### LIST of purposes, methods and terms of processing personal data of Sovremennye Kommunikatsii LLC
 
 |No. 4|Purposes of personal data processing|Categories of personal data subjects|List of personal data processed|Method of personal data processing|Personal data processing and storage periods|Actions with personal data upon completion of processing|
 |------|------------------|------------------------|---------------------------|--------------------|---------------------------------|-------------------------------------| 
