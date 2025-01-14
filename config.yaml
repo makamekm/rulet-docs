@@ -7,3 +7,9 @@ languages:
     code: en
 
 assets: "**/*.svg"
+
+redirects:
+  - from: /
+    to: help.ru
+  - from: index
+    to: help
