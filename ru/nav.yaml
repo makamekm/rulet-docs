@@ -17,6 +17,8 @@ left:
     href: agreement
   - label: Политика конфиденциальности
     href: politics
+  - label: Политика в отношении жестокого обращения с детьми
+    href: child-abuse
 
 hidden:
   - consent

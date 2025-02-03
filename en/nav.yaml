@@ -17,6 +17,8 @@ left:
     href: agreement
   - label: Privacy Policy
     href: politics
+  - label: Child Abuse Policy
+    href: child-abuse
 
 hidden:
   - consent
